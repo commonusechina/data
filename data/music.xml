@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items title="nihao"> 
+  <item text="歌唱视频教程1"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM5NDY1NTA0.html</url>
+    <picurl></picurl>
+  </item>
+ <item text="歌唱视频教程2"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM5NDY1NjY0.html</url>
+    <picurl></picurl>
+  </item>
+ <item text="视频教程3"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM5NDU5MzE2.html</url>
+    <picurl></picurl>
+  </item>
+ <item text="视频教程4"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM2NjU2NTMy.html</url>
+    <picurl></picurl>
+  </item>
+ <item text="视频教程5"      des="">
+    <url>http://v.youku.com/v_show/id_XNjc3NTE3MTA4.html</url>
+    <picurl></picurl>
+  </item>
+ <item text="视频教程6"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM2NTU5NDc2.html</url>
+    <picurl></picurl>
+  </item>
+ <item text="视频教程7"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM2NTQ5Nzc2.html</url>
+    <picurl></picurl>
+  </item>
+<item text="视频教程8"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM2NTU2Njcy.html</url>
+    <picurl></picurl>
+  </item>
+<item text="视频教程9"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM2NTQzOTE2.html</url>
+    <picurl></picurl>
+  </item>
+<item text="视频教程10"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM2NTM2NjAw.html</url>
+    <picurl></picurl>
+  </item>
+</Items>
+
+
+
+
+
+
+
+
+
+
