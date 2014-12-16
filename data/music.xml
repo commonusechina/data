@@ -1,5 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Items title="nihao"> 
+<item text="音乐吧"      des="">
+    <url>http://tieba.baidu.com/f?kw=%E9%9F%B3%E4%B9%90l</url>
+    <picurl></picurl>
+  </item>
+<item text="唱歌技巧吧"      des="">
+    <url>http://tieba.baidu.com/f?kw=%E5%94%B1%E6%AD%8C%E6%8A%80%E5%B7%A7</url>
+    <picurl></picurl>
+  </item>
+<item text="声乐吧"      des="">
+    <url>http://tieba.baidu.com/f?kw=%E5%A3%B0%E4%B9%90</url>
+    <picurl></picurl>
+  </item>
+<item text="吉他吧"      des="">
+    <url>http://tieba.baidu.com/f?kw=%E5%90%89%E4%BB%96</url>
+    <picurl></picurl>
+  </item>
   <item text="歌唱视频教程1"      des="">
     <url>http://v.youku.com/v_show/id_XNjM5NDY1NTA0.html</url>
     <picurl></picurl>
