@@ -1,5 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Items title="nihao"> 
+ <item text="首度 "      des="首度包含了摄影作品分享，摄影技巧交流，摄影活动和比赛等栏目。">
+    <url>http://www.windowsphone.com/zh-cn/store/app/%E9%A6%96%E5%BA%A6/b0a1e824-e495-46d0-b0d7-f01a6461c0ea</url>
+    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
+  </item>
+<item text="华语歌坛RB天王们最难唱的5首歌"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM1MjA4MjYw.html</url>
+    <picurl></picurl>
+  </item>
+<item text="欧美主流歌手唱功评级第二版，精彩Live大合集"      des="">
+    <url>http://v.youku.com/v_show/id_XNTUzMDA1NTc2.html</url>
+    <picurl></picurl>
+  </item>
+<item text="你的说话习惯决定了你的唱歌水平"      des="">
+    <url>http://v.youku.com/v_show/id_XNjE0MjEwNjEy.html</url>
+    <picurl></picurl>
+  </item>
+<item text="爆笑对比！同一个主题下中外最流行歌曲的区别，仅供娱乐"      des="">
+    <url>http://v.youku.com/v_show/id_XNTU3Nzk0OTk2.html</url>
+    <picurl></picurl>
+  </item>
 <item text="音乐吧"      des="">
     <url>http://tieba.baidu.com/f?kw=%E9%9F%B3%E4%B9%90l</url>
     <picurl></picurl>
@@ -16,12 +36,16 @@
     <url>http://tieba.baidu.com/f?kw=%E5%90%89%E4%BB%96</url>
     <picurl></picurl>
   </item>
-<item text="五线谱百科"      des="">
-    <url>http://baike.baidu.com/view/19812.htm</url>
+<item text="教你学流行唱法(1)-传声技巧"      des="">
+    <url>http://v.youku.com/v_show/id_XODQ2NTM5NjA0.html</url>
     <picurl></picurl>
   </item>
-<item text="五线谱百科"      des="">
-    <url>http://baike.baidu.com/view/19812.htm</url>
+<item text="流行唱法(2)-声音靠前"      des="">
+    <url>http://v.youku.com/v_show/id_XODQ2NTI0MjI0.html</url>
+    <picurl></picurl>
+  </item>
+<item text="流行唱法(3)- 露牙齿咬字"      des="">
+    <url>http://v.youku.com/v_show/id_XODQ2NTAzNTM2.html</url>
     <picurl></picurl>
   </item>
 <item text="五线谱百科"      des="">
@@ -75,14 +99,6 @@
 <item text="视频教程10"      des="">
     <url>http://v.youku.com/v_show/id_XNjM2NTM2NjAw.html</url>
     <picurl></picurl>
-  </item>
-<item text="教你学唱歌技巧(1)-传声技巧"      des="">
-    <url>http://class.qq.com/class/10576/p35718.html</url>
-    <picurl></picurl>
-  </item>
- <item text="首度 "      des="首度是一个全新的摄影社区，是汇聚了摄影发烧友、专业摄影师、模特和视觉爱好者组成的互动交流平台，包含了摄影作品分享，摄影技巧交流，摄影活动和比赛等栏目。">
-    <url>http://www.windowsphone.com/zh-cn/store/app/%E9%A6%96%E5%BA%A6/b0a1e824-e495-46d0-b0d7-f01a6461c0ea</url>
-    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
   </item>
 </Items>
 
