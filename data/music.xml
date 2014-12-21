@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Items title="nihao">
  <item text="音乐基础理论"      des="">
-    <url>https://raw.githubusercontent.com/commonusechina/data/master/data/yueli.txt</url>
+    <url>https://raw.githubusercontent.com/commonusechina/data/master/data/yueli.doc</url>
     <picurl></picurl>
   </item> 
  <item text="歌唱视频教程1"      des="">
