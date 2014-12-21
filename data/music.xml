@@ -1,5 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Items title="nihao"> 
+ <item text="歌唱视频教程1"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM5NDY1NTA0.html</url>
+    <picurl></picurl>
+  </item>
+ <item text="歌唱视频教程2"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM5NDY1NjY0.html</url>
+    <picurl></picurl>
+  </item>
+ <item text="视频教程3"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM5NDU5MzE2.html</url>
+    <picurl></picurl>
+  </item>
+ <item text="视频教程4"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM2NjU2NTMy.html</url>
+    <picurl></picurl>
+  </item>
+ <item text="视频教程5"      des="">
+    <url>http://v.youku.com/v_show/id_XNjc3NTE3MTA4.html</url>
+    <picurl></picurl>
+  </item>
+ <item text="视频教程6"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM2NTU5NDc2.html</url>
+    <picurl></picurl>
+  </item>
+ <item text="视频教程7"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM2NTQ5Nzc2.html</url>
+    <picurl></picurl>
+  </item>
+<item text="视频教程8"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM2NTU2Njcy.html</url>
+    <picurl></picurl>
+  </item>
+<item text="视频教程9"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM2NTQzOTE2.html</url>
+    <picurl></picurl>
+  </item>
+<item text="视频教程10"      des="">
+    <url>http://v.youku.com/v_show/id_XNjM2NTM2NjAw.html</url>
+    <picurl></picurl>
+  </item> 
  <item text="首度 "      des="首度包含了摄影作品分享，摄影技巧交流，摄影活动和比赛等栏目。">
     <url>http://www.windowsphone.com/zh-cn/store/app/%E9%A6%96%E5%BA%A6/b0a1e824-e495-46d0-b0d7-f01a6461c0ea</url>
     <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
@@ -59,45 +99,45 @@
 <item text="音乐理论视频"      des="">
     <url>http://v.youku.com/v_show/id_XMTM2MDgxMzg4.html</url>
     <picurl></picurl>
-  </item>
-  <item text="歌唱视频教程1"      des="">
-    <url>http://v.youku.com/v_show/id_XNjM5NDY1NTA0.html</url>
+  </item> 
+<item text="视频: 音乐理论基础01"      des="">
+    <url>http://v.youku.com/v_show/id_XMzM0ODEzMDUy.html</url>
     <picurl></picurl>
   </item>
- <item text="歌唱视频教程2"      des="">
-    <url>http://v.youku.com/v_show/id_XNjM5NDY1NjY0.html</url>
+ <item text="视频: 音乐理论基础02"      des="">
+    <url>http://v.youku.com/v_show/id_XMzM0ODMzNjcy.html</url>
     <picurl></picurl>
   </item>
- <item text="视频教程3"      des="">
-    <url>http://v.youku.com/v_show/id_XNjM5NDU5MzE2.html</url>
+ <item text="视频: 音乐理论基础03"      des="">
+    <url>http://v.youku.com/v_show/id_XMzM0ODMzNjI0.html</url>
     <picurl></picurl>
   </item>
- <item text="视频教程4"      des="">
-    <url>http://v.youku.com/v_show/id_XNjM2NjU2NTMy.html</url>
+ <item text="视频: 音乐理论基础04"      des="">
+    <url>http://v.youku.com/v_show/id_XMzM0ODQwOTUy.html</url>
     <picurl></picurl>
   </item>
- <item text="视频教程5"      des="">
-    <url>http://v.youku.com/v_show/id_XNjc3NTE3MTA4.html</url>
+ <item text="视频: 音乐理论基础05"      des="">
+    <url>http://v.youku.com/v_show/id_XMzM0ODM4MTIw.html</url>
     <picurl></picurl>
   </item>
- <item text="视频教程6"      des="">
-    <url>http://v.youku.com/v_show/id_XNjM2NTU5NDc2.html</url>
+ <item text="视频: 音乐理论基础06"      des="">
+    <url>http://v.youku.com/v_show/id_XMzM0ODU0NTQ0.html</url>
     <picurl></picurl>
   </item>
- <item text="视频教程7"      des="">
-    <url>http://v.youku.com/v_show/id_XNjM2NTQ5Nzc2.html</url>
+ <item text="视频: 音乐理论基础07"      des="">
+    <url>http://v.youku.com/v_show/id_XMzM0ODQ5MDg4.html</url>
     <picurl></picurl>
   </item>
-<item text="视频教程8"      des="">
-    <url>http://v.youku.com/v_show/id_XNjM2NTU2Njcy.html</url>
+ <item text="视频: 音乐理论基础08"      des="">
+    <url>http://v.youku.com/v_show/id_XMzM0ODQ5NjMy.html</url>
     <picurl></picurl>
   </item>
-<item text="视频教程9"      des="">
-    <url>http://v.youku.com/v_show/id_XNjM2NTQzOTE2.html</url>
+ <item text="视频: 音乐理论基础09"      des="">
+    <url></url>
     <picurl></picurl>
   </item>
-<item text="视频教程10"      des="">
-    <url>http://v.youku.com/v_show/id_XNjM2NTM2NjAw.html</url>
+ <item text="视频: 音乐理论基础10"      des="">
+    <url>http://v.youku.com/v_show/id_XMzM0ODYyMTQw.html</url>
     <picurl></picurl>
   </item>
 </Items>
