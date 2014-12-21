@@ -1,21 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Items title="nihao"> 
-<item text="同一首歌经典歌曲100首（下）"      des="">
-    <url>http://www.56.com/u92/v_MTk3MzQwODE.html</url>
-    <picurl></picurl>
-  </item>
-<item text="优酷票选09情人节献礼真爱典藏欧美经典情歌24首最新合辑"      des="">
-    <url>http://v.youku.com/v_show/id_XNzE3NjE3MzY=.html</url>
-    <picurl></picurl>
-  </item>
-<item text="2012年70首欧美流行金曲65分钟超长神级混音串"      des="">
-    <url>http://v.youku.com/v_show/id_XNDk0ODk1NTE2.html</url>
-    <picurl></picurl>
-  </item>
-<item text="香港历来最实力男歌手每人一首经典歌曲（高清珍藏）"      des="">
-    <url>http://v.youku.com/v_show/id_XMTc2MDY2NzI4.html</url>
-    <picurl></picurl>
-  </item>
  <item text="歌唱视频教程1"      des="">
     <url>http://v.youku.com/v_show/id_XNjM5NDY1NTA0.html</url>
     <picurl></picurl>
@@ -154,6 +138,22 @@
   </item>
  <item text="视频: 音乐理论基础10"      des="">
     <url>http://v.youku.com/v_show/id_XMzM0ODYyMTQw.html</url>
+    <picurl></picurl>
+  </item>
+<item text="同一首歌经典歌曲100首（下）"      des="">
+    <url>http://www.56.com/u92/v_MTk3MzQwODE.html</url>
+    <picurl></picurl>
+  </item>
+<item text="优酷票选09情人节献礼真爱典藏欧美经典情歌24首最新合辑"      des="">
+    <url>http://v.youku.com/v_show/id_XNzE3NjE3MzY=.html</url>
+    <picurl></picurl>
+  </item>
+<item text="2012年70首欧美流行金曲65分钟超长神级混音串"      des="">
+    <url>http://v.youku.com/v_show/id_XNDk0ODk1NTE2.html</url>
+    <picurl></picurl>
+  </item>
+<item text="香港历来最实力男歌手每人一首经典歌曲（高清珍藏）"      des="">
+    <url>http://v.youku.com/v_show/id_XMTc2MDY2NzI4.html</url>
     <picurl></picurl>
   </item>
 </Items>
