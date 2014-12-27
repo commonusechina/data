@@ -1,5 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Items title="nihao">
+ <item text="首度 "      des="首度包含了摄影作品分享，摄影技巧交流，摄影活动和比赛等栏目。">
+    <url>http://www.windowsphone.com/zh-cn/store/app/%E9%A6%96%E5%BA%A6/b0a1e824-e495-46d0-b0d7-f01a6461c0ea</url>
+    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
+  </item>
+<item text="yahoo music"      des="">
+    <url>https://yahoo.com/music/</url>
+    <picurl></picurl>
+  </item> 
+<item text="yahoo live music"      des="">
+    <url>https://screen.yahoo.com/music/</url>
+    <picurl></picurl>
+  </item> 
+<item text="yahoo live"      des="">
+    <url>https://screen.yahoo.com/live/</url>
+    <picurl></picurl>
+  </item> 
  <item text="音乐基础理论"      des="">
     <url>https://raw.githubusercontent.com/commonusechina/data/master/data/yueli.doc</url>
     <picurl></picurl>
@@ -44,10 +60,6 @@
     <url>http://v.youku.com/v_show/id_XNjM2NTM2NjAw.html</url>
     <picurl></picurl>
   </item> 
- <item text="首度 "      des="首度包含了摄影作品分享，摄影技巧交流，摄影活动和比赛等栏目。">
-    <url>http://www.windowsphone.com/zh-cn/store/app/%E9%A6%96%E5%BA%A6/b0a1e824-e495-46d0-b0d7-f01a6461c0ea</url>
-    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
-  </item>
 <item text="华语歌坛RB天王们最难唱的5首歌"      des="">
     <url>http://v.youku.com/v_show/id_XNjM1MjA4MjYw.html</url>
     <picurl></picurl>
