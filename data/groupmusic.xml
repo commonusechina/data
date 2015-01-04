@@ -21,11 +21,31 @@
     <picurl></picurl>
   </item>
 <item text="吉他吧"      des="">
-    <url>http://tieba.baidu.com/f?kw=%E5%90%89%E4%BB%96</url>
+     <url>http://tieba.baidu.com/f?kw=%E5%90%89%E4%BB%96</url>
     <picurl></picurl>
   </item>
-<item text="五线谱吧"      des="">
-    <url>http://www.soku.com/search_video/q_%E4%BA%94%E7%BA%BF%E8%B0%B1</url>
+<item text="音乐歌词吧"      des="">
+     <url>http://tieba.baidu.com/f?kw=音乐歌词</url>
+    <picurl></picurl>
+  </item>
+<item text="背景音乐吧"      des="">
+     <url>http://tieba.baidu.com/f?kw=背景音乐</url>
+    <picurl></picurl>
+  </item>
+<item text="唱吧"      des="">
+     <url>http://tieba.baidu.com/f?kw=唱</url>
+    <picurl></picurl>
+  </item>
+<item text="乐器吧"      des="">
+     <url>http://tieba.baidu.com/f?kw=乐器</url>
+    <picurl></picurl>
+  </item>
+<item text="韩国音乐吧"      des="">
+     <url>http://tieba.baidu.com/f?kw=%E5%90%89%E4%BB%96</url>
+    <picurl></picurl>
+  </item>
+<item text="rap吧"      des="">
+     <url>http://tieba.baidu.com/f?kw=rap</url>
     <picurl></picurl>
   </item>
 </Items>
