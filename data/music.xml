@@ -1,62 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Items title="nihao">
-<item text="初学者唱歌技巧速成诀窍"      des="">
-    <url>https://raw.githubusercontent.com/commonusechina/data/master/data/初学者唱歌技巧速成诀窍.doc</url>
-    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
-  </item>
-<item text="常用音乐术语全集"      des="">
-    <url>https://raw.githubusercontent.com/commonusechina/data/master/data/常用音乐术语全集.doc</url>
-    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
-  </item>
-<item text="唱歌技巧!【献给爱唱歌的朋友】"      des="">
-    <url>https://raw.githubusercontent.com/commonusechina/data/master/data/m2.docx</url>
-    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
-  </item>
-<item text="歌星唱歌分析"      des="">
-    <url>https://raw.githubusercontent.com/commonusechina/data/master/data/m1.doc</url>
-    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
-  </item>
-<item text="Divas唱功分析"      des="">
-    <url>https://raw.githubusercontent.com/commonusechina/data/master/data/Divas%E5%94%B1%E5%8A%9F%E5%88%86%E6%9E%90.doc</url>
-    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
-  </item>
- <item text="首度 "      des="首度包含了摄影作品分享，摄影技巧交流，摄影活动和比赛等栏目。">
-    <url>http://www.windowsphone.com/zh-cn/store/app/%E9%A6%96%E5%BA%A6/b0a1e824-e495-46d0-b0d7-f01a6461c0ea</url>
-    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
-  </item>
-<item text="新闻浏览器"      des="">
-    <url>https://www.windowsphone.com/zh-cn/store/app/%E6%96%B0%E9%97%BB%E6%B5%8F%E8%A7%88%E5%99%A8/fa09f586-cf51-4c6a-af19-03c39d149464</url>
-    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
-  </item>
-<item text="景区百科"      des="">
-    <url>https://www.windowsphone.com/zh-cn/store/app/%E6%99%AF%E5%8C%BA%E7%99%BE%E7%A7%91/5054691f-90a3-40a6-8f8f-a02e60e8c6bd</url>
-    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
-  </item>
-<item text="视频: 经典影视怀旧金曲合集"      des="">
-    <url>http://v.youku.com/v_show/id_XNTA2ODkwMzg4.html</url>
-    <picurl></picurl>
-  </item> 
-<item text="视频: 席琳迪翁《我心永恒》现场震撼表演--经典指数堪比迈克尔杰克逊"      des="">
-    <url>http://v.youku.com/v_show/id_XMjI5MzEwNTM2.html</url>
-    <picurl></picurl>
-  </item>
-<item text="Eminem Top 50 Rap Songs Of All Time"      des="">
-    <url>http://v.youku.com/v_show/id_XNzQzODY1MjI4.html</url>
-    <picurl></picurl>
-  </item>
-<item text="保罗麦卡特尼爵士现身英国女王登基60周年演唱会超强串烧5"      des="">
-    <url>http://v.youku.com/v_show/id_XNDA4NDIyMTA4.html</url>
-    <picurl></picurl>
-  </item> 
-<item text="视频克 蘿伊‧安格紐漫步雲端（美聲專輯）"      des="">
-    <url>http://v.youku.com/v_show/id_XMzkyMTI3NDI0.html</url>
-    <picurl></picurl>
-  </item> 
- <item text="音乐基础理论"      des="">
-    <url>https://raw.githubusercontent.com/commonusechina/data/master/data/yueli.doc</url>
-    <picurl></picurl>
-  </item> 
- <item text="歌唱视频教程1"      des="">
+<item text="歌唱视频教程1"      des="">
     <url>http://v.youku.com/v_show/id_XNjM5NDY1NTA0.html</url>
     <picurl></picurl>
   </item>
@@ -96,6 +40,38 @@
     <url>http://v.youku.com/v_show/id_XNjM2NTM2NjAw.html</url>
     <picurl></picurl>
   </item> 
+<item text="初学者唱歌技巧速成诀窍"      des="">
+    <url>https://raw.githubusercontent.com/commonusechina/data/master/data/初学者唱歌技巧速成诀窍.doc</url>
+    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
+  </item>
+<item text="常用音乐术语全集"      des="">
+    <url>https://raw.githubusercontent.com/commonusechina/data/master/data/常用音乐术语全集.doc</url>
+    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
+  </item>
+<item text="唱歌技巧!【献给爱唱歌的朋友】"      des="">
+    <url>https://raw.githubusercontent.com/commonusechina/data/master/data/m2.docx</url>
+    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
+  </item>
+<item text="歌星唱歌分析"      des="">
+    <url>https://raw.githubusercontent.com/commonusechina/data/master/data/m1.doc</url>
+    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
+  </item>
+<item text="Divas唱功分析"      des="">
+    <url>https://raw.githubusercontent.com/commonusechina/data/master/data/Divas%E5%94%B1%E5%8A%9F%E5%88%86%E6%9E%90.doc</url>
+    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
+  </item>
+<item text="视频: 席琳迪翁《我心永恒》现场震撼表演--经典指数堪比迈克尔杰克逊"      des="">
+    <url>http://v.youku.com/v_show/id_XMjI5MzEwNTM2.html</url>
+    <picurl></picurl>
+  </item>
+<item text="Eminem Top 50 Rap Songs Of All Time"      des="">
+    <url>http://v.youku.com/v_show/id_XNzQzODY1MjI4.html</url>
+    <picurl></picurl>
+  </item> 
+ <item text="音乐基础理论"      des="">
+    <url>https://raw.githubusercontent.com/commonusechina/data/master/data/yueli.doc</url>
+    <picurl></picurl>
+  </item>  
 <item text="华语歌坛RB天王们最难唱的5首歌"      des="">
     <url>http://v.youku.com/v_show/id_XNjM1MjA4MjYw.html</url>
     <picurl></picurl>
