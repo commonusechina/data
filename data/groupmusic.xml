@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Items title="nihao"> 
- <item text="首度 "      des="首度包含了摄影作品分享，摄影技巧交流，摄影活动和比赛等栏目。">
-    <url>http://www.windowsphone.com/zh-cn/store/app/%E9%A6%96%E5%BA%A6/b0a1e824-e495-46d0-b0d7-f01a6461c0ea</url>
+ <item text="音乐吧"      des="">
+    <url>http://tieba.baidu.com/f?kw=%E9%9F%B3%E4%B9%90</url>
     <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
   </item>
-<item text="华语歌坛RB天王们最难唱的5首歌"      des="">
-    <url>http://v.youku.com/v_show/id_XNjM1MjA4MjYw.html</url>
+<item text="声乐吧"      des="">
+    <url>http://tieba.baidu.com/f?kw=声乐</url>
     <picurl></picurl>
   </item>
-<item text="欧美主流歌手唱功评级第二版，精彩Live大合集"      des="">
-    <url>http://v.youku.com/v_show/id_XNTUzMDA1NTc2.html</url>
+<item text="欧美音乐"      des="">
+    <url>http://tieba.baidu.com/f?kw=欧美音乐</url>
     <picurl></picurl>
   </item>
 <item text="你的说话习惯决定了你的唱歌水平"      des="">
