@@ -32,8 +32,20 @@
     <url>http://yuedu.baidu.com/</url>
     <picurl></picurl>
   </item>
-<item text="视频教程9"      des="">
-    <url>http://v.youku.com/v_show/id_XNjM2NTQzOTE2.html</url>
+<item text="百度校园"      des="">
+    <url>http://campus.baidu.com/</url>
+    <picurl></picurl>
+  </item>
+<item text="百度词典"      des="">
+    <url>http://dict.baidu.com/</url>
+    <picurl></picurl>
+  </item>
+<item text="百度公益"      des="">
+    <url>http://gongyi.baidu.com/</url>
+    <picurl></picurl>
+  </item>
+<item text="百度经验"      des="">
+    <url>http://jingyan.baidu.com/</url>
     <picurl></picurl>
   </item>
 </Items>
