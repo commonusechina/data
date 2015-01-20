@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Items title="nihao">
+<item text="万花筒浏览器"      des="">
+    <url>http://www.windowsphone.com/zh-cn/store/app/%E6%96%B0%E9%97%BB%E6%B5%8F%E8%A7%88%E5%99%A8/fa09f586-cf51-4c6a-af19-03c39d149464</url>
+    <picurl></picurl>
+  </item>
 <item text="歌唱视频教程1"      des="">
     <url>http://v.youku.com/v_show/id_XNjM5NDY1NTA0.html</url>
     <picurl></picurl>
