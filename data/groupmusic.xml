@@ -1,5 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Items title="nihao"> 
+<item text="维基百科音乐"      des="">
+    <url>http://zh.wikipedia.org/wiki/%E9%9F%B3%E4%B9%90</url>
+    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
+  </item>
+<item text="喉音唱法"      des="">
+    <url>http://zh.wikipedia.org/wiki/%E5%96%89%E9%9F%B3%E5%94%B1%E6%B3%95</url>
+    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
+  </item>
+<item text="约德尔唱法"      des="">
+    <url>http://zh.wikipedia.org/wiki/%E7%BA%A6%E5%BE%B7%E5%B0%94%E5%94%B1%E6%B3%95</url>
+    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
+  </item>
+<item text="全国青年歌手电视大奖赛"      des="">
+    <url>http://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%AD%8C%E6%89%8B%E7%94%B5%E8%A7%86%E5%A4%A7%E5%A5%96%E8%B5%9B</url>
+    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
+  </item>
+<item text="流行唱法"      des="">
+    <url>http://baike.baidu.com/view/434661.htm</url>
+    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
+  </item>
+<item text="唱法"      des="">
+    <url>http://baike.baidu.com/view/2365247.htm</url>
+    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
+  </item>
  <item text="音乐吧"      des="">
     <url>http://tieba.baidu.com/f?kw=%E9%9F%B3%E4%B9%90</url>
     <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
