@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Items title="nihao"> 
+<item text="练习唱歌技巧攻略"      des="">
+    <url>http://jingyan.baidu.com/album/64d05a0285a130de55f73b1b.html</url>
+    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
+  </item>
+<item text="练习唱歌技巧攻略"      des="">
+    <url>hhttp://jingyan.baidu.com/article/64d05a0285a130de55f73b1b.html</url>
+    <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
+  </item>
 <item text="维基百科音乐"      des="">
     <url>http://zh.wikipedia.org/wiki/%E9%9F%B3%E4%B9%90</url>
     <picurl>http://cdn.marketplaceimages.windowsphone.com/v8/images/03550b13-3b65-46f2-9273-af60fd52b30d?imageType=ws_icon_large</picurl>
